@@ -2,6 +2,8 @@
 ### Leveraging Dynamic Capabilities for AAA Dominance
 *MIS Capstone Project | Syracuse University | December 2025*
 
+![Title Slide](./assets/title-slide.png)
+
 ## Overview
 This strategic analysis examines Ubisoft's organizational transformation as the company pivots from traditional AAA publishing to a "Games as a Service" (GaaS) model built around autonomous "Creative Houses." The report applies the Dynamic Capability Framework (Sensing, Seizing, Transforming) to propose actionable strategies addressing the core challenges of modern game development: rising costs, extended timelines, and intense market competition.
 
@@ -14,6 +16,9 @@ Ubisoft operates over 45 studios with ~19,000 employees, managing billion-euro I
 
 ## Strategic Framework
 The analysis leverages three interconnected strategic thrusts:
+
+![Strategic Planning Canvas](./assets/strategic-canvas.png)
+
 | Capability | Focus Area | Key Initiative |
 | --- | --- | --- |
 | **Sensing** | Opportunity Identification | Real-time analytics replacing batch processing |
@@ -37,7 +42,7 @@ Analytical Tools Applied
 ## Author
 ### Arsh Chandrakar
 M.S. Information Systems | Syracuse University (December 2025)
-Certified Lean Six Sigma Green Belt
+Certified Lean Six Sigma Green Belt <br>
 [LinkedIn](https://www.linkedin.com/in/arsh-chandrakar/)
 [Portfolio](https://arsh23-tech.github.io/)
 
